@@ -9,7 +9,7 @@ Apr 2020 – May 2020
 
 •	Inferences and Analysis. Analyzed how the location, the number of reviews, and the number of photos showed influenced the stores’ star ratings by joining different tables and processing data
 
-###################################################################
+#################################################################################
 
 **Gender Recognition by Voice (Python & R)**                                                   
 Jan 2020 – Mar 2020
@@ -24,7 +24,7 @@ Jan 2020 – Mar 2020
 
 •	Deep Neuron Network (DNN). Trained Deep Neural Network models with different number layers with different batch sizes and activation function, and selected the best model based on mean absolute error (MAE)
 
-#####################################################################
+#################################################################################
 
 **Walmart Store Sales Analysis and Forecasting (Python)**                                        
 Jan 2020 – Mar 2020
@@ -35,6 +35,8 @@ Jan 2020 – Mar 2020
 
 •	Elasticity Analysis. Built the multivariable regression to perform the elasticity analysis, analyzed the rationality of the elasticity analysis result 
 
+#################################################################################
+
 **Facial Expression Recognition (Python)**                                                     
 Jan,2020 – Feb,2020
 
@@ -44,6 +46,8 @@ Jan,2020 – Feb,2020
 
 •	Accuracy Threshold. Defined a callback function to stop the training when given accuracy achieved to reduce unnecessary training time
 
+#################################################################################
+
 **Sentiment Analysis of Shareholder Letters from Berkshire Hathaway (Python)**                      
 Jan 2020 – Feb 2020
 
@@ -52,6 +56,8 @@ Jan 2020 – Feb 2020
 •	Text Mining. Preprocessed review text by tokenization, stemming, removing stop words
 
 •	Long Short-Term Memory (LSTM) Model. Trained LSTM model with different number layers with different dropout rate and activation function, selected the best parameter combination based on prediction accuracy and loss
+
+#################################################################################
 
 **New York Airbnb Price Analysis (R)**                                                         
 Oct 2019 – Dec 2019
