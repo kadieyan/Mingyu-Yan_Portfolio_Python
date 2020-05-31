@@ -9,6 +9,8 @@ Apr 2020 – May 2020
 
 •	Inferences and Analysis. Analyzed how the location, the number of reviews, and the number of photos showed influenced the stores’ star ratings by joining different tables and processing data
 
+###################################################################
+
 **Gender Recognition by Voice (Python & R)**                                                   
 Jan 2020 – Mar 2020
 
@@ -21,6 +23,8 @@ Jan 2020 – Mar 2020
 •	GridSearch & ROC curve. Applied GridSearch to Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest and K-Nearest Neighbors (KNN); Using ROC curve to find out the model with best performance
 
 •	Deep Neuron Network (DNN). Trained Deep Neural Network models with different number layers with different batch sizes and activation function, and selected the best model based on mean absolute error (MAE)
+
+#####################################################################
 
 **Walmart Store Sales Analysis and Forecasting (Python)**                                        
 Jan 2020 – Mar 2020
