@@ -1,5 +1,7 @@
 # Mingyu_Yan_Portfolio
 
+########################### LinkedIn: https://linkedin.com/in/mingyuyan ########################
+
 **Yelp Data Analysis (SQL)**                                                               
 Apr 2020 – May 2020
 
