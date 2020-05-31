@@ -38,7 +38,7 @@ Jan 2020 – Mar 2020
 #################################################################################
 
 **Facial Expression Recognition (Python)**                                                     
-Jan,2020 – Feb,2020
+Jan 2020 – Feb 2020
 
 •	Developed a deep learning model to classify facial expression and applied it to real world facial recognition
 
